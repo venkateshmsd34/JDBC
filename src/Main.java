@@ -194,3 +194,42 @@ public class Main {
     }
         }
 
+
+        /* Heyyy buddy can you please choose the options:
+1.View the data
+2.Create the data
+3.Update the data
+4.Delete the data
+5.Exit
+Enter the options
+2
+Enter the ID
+4
+Enter the Name
+murali
+Enter the Username
+ssjsj
+Enter the Password
+kkksd
+Row Inserted to the table
+Heyyy buddy can you please choose the options:
+1.View the data
+2.Create the data
+3.Update the data
+4.Delete the data
+5.Exit
+Enter the options
+1
+ID  NAME  USERNAME  PASSWORD
+1   raju raju@34 raju8
+2   pallavi pallvi@33 pallu
+3   pandu pandu@12 xknxkcn
+4   murali ssjsj kkksd
+Heyyy buddy can you please choose the options:
+1.View the data
+2.Create the data
+3.Update the data
+4.Delete the data
+5.Exit
+Enter the options
+*/
